@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @baeo5623
+|![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)|	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)|
+|--|--|
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeo5623&show_icons=true&theme=radical)
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
